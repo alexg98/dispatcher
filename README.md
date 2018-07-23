@@ -5,7 +5,7 @@ Solución que intenta simular un despachador de llamadas en un Call center, para
 CompletableFuture : Administra la concurrencia de las llamadas entrantes, el cual tiene características únicas para predecir el resultado de las solicitudes y de esta manera poder liberar los empleados despues de atendida una solicitud.
 
 
-## Solution
+## Extras/Plus
 
 Se implemento método sincronizado a nivel de clase para garantizar que más de una llamada no sea atendida por un mismo empleado en un mismo instante.
 
@@ -24,5 +24,5 @@ mvn clean install
 
 ## Author
 
-Alexander Guerrero E
+Alexander Guerrero
 alexg98@gmail.com
