@@ -35,6 +35,7 @@ public final class AvailabilityEmployees {
 	 * the order of availability depends on the level of the employee, if there are no operators a 
 	 * supervisor will be assigned and if no supervisors will assign a director.
 	 * 
+	 * 
 	 * @return Optional<Employee>
 	 * @throws RuntimeException
 	 */
